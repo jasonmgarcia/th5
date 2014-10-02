@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# th5
+#
+
+projectname: th5
+vendorid: com.jason
+mainmodule: com.jason.th5
